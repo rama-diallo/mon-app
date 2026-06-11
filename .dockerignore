@@ -1,0 +1,5 @@
+node_modules/
+mon-app-test/
+terraform/
+*.log
+*.pid
